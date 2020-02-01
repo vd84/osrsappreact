@@ -1,0 +1,7 @@
+{
+  "name": "osrsappreacr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
